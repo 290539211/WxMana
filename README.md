@@ -10,3 +10,6 @@ v1.0版本提供微信公众号基础程序的撰写：
 
 技术：
 Java 7.0  Sql-Server 2012 bootstrap-3.3.5 SpringMVC 
+
+
+我是readme 我来修改一下这个
